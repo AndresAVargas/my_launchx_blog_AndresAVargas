@@ -6,7 +6,23 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://andresavargas.github.io/my_launchx_blog_AndresAVargas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://andresavargas.github.io/my_launchx_blog_AndresAVargas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El primer post de mi ruta de aprendizaje.</title>
+      <link>https://andresavargas.github.io/my_launchx_blog_AndresAVargas/posts/post_1/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://andresavargas.github.io/my_launchx_blog_AndresAVargas/posts/post_1/</guid>
+      <description>Hola! Esto es lo que eh aprendido en lo que llevo de Launch X:
+-Jupyter Notebook
+-Introducción a python
+-GitHub
+-Html
+-Css
+-Js
+Me falta mucho por aprender y espero que mi ruta que aprendizaje crezca aun mas C:</description>
+    </item>
+    
     <item>
       <title>La cultura de un dasarrollador de software</title>
       <link>https://andresavargas.github.io/my_launchx_blog_AndresAVargas/posts/intro/</link>
