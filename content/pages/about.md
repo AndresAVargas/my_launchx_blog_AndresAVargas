@@ -9,13 +9,5 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Me gusta mucho las series, las historieta, los videojuegos y los perros. tanto que, tengo dos perros como mascota.
+Me gusta aprender cosas nuevas y aunque muchas veces las cosas que hago no me van bien siempre doy lo mejor de mi en cada trabajo que hago.
